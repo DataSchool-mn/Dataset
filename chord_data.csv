@@ -1,0 +1,21 @@
+From,to,Value
+West,Khangai_Region,359
+West,Central ,897
+West,East,179
+West,Ulaanbaatar,"2,152"
+Khangai_Region,West,834
+Khangai_Region,Central ,"1,252"
+Khangai_Region,East,556
+Khangai_Region,Ulaanbaatar,"4,311"
+Central ,West,526
+Central ,Khangai_Region,"1,314"
+Central ,East,876
+Central ,Ulaanbaatar,"6,044"
+East,West,41.5
+East,Khangai_Region,166
+East,Central ,622.5
+East,Ulaanbaatar,1245
+Ulaanbaatar,West,"1,034"
+Ulaanbaatar,Khangai_Region,"3,617"
+Ulaanbaatar,Central ,"4,134"
+Ulaanbaatar,East,"1,550"
